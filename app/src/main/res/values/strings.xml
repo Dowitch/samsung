@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="question1">   </string>
+    <string name="question2"></string>
+    <string name="question3"></string>
+    <string name="question4"></string>
+    <string name="question5"></string>
+    <string name="text">true_Button</string>
+    <string name="truetext">True</string>
+    <string name="falsetext">False</string>
+    <string name="correct_toast">True</string>
+    <string name="incorrect_toast"></string>
+
+</resources>

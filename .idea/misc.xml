@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/skobl/AndroidStudioProjects/Project/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/skobl/AndroidStudioProjects/Project/app/src/main/res/layout/addition.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/skobl/AndroidStudioProjects/Project/app/src/main/res/layout/addition_easy.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/skobl/AndroidStudioProjects/Project/app/src/main/res/layout/division.xml" value="0.33" />
+        <entry key="..\:/Users/skobl/AndroidStudioProjects/Project/app/src/main/res/layout/division_main.xml" value="0.24230072463768115" />
+        <entry key="..\:/Users/skobl/AndroidStudioProjects/Project/app/src/main/res/layout/fold.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/skobl/AndroidStudioProjects/Project/app/src/main/res/layout/main.xml" value="0.14007782101167315" />
+        <entry key="..\:/Users/skobl/AndroidStudioProjects/Project/app/src/main/res/layout/menu.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/skobl/AndroidStudioProjects/Project/app/src/main/res/layout/multiplication.xml" value="0.2504528985507246" />
+        <entry key="..\:/Users/skobl/AndroidStudioProjects/Project/app/src/main/res/layout/multiplication_easy.xml" value="0.2504528985507246" />
+        <entry key="..\:/Users/skobl/AndroidStudioProjects/Project/app/src/main/res/layout/multiplication_hard.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/skobl/AndroidStudioProjects/Project/app/src/main/res/layout/multiplication_medium.xml" value="0.921875" />
+        <entry key="..\:/Users/skobl/AndroidStudioProjects/Project/app/src/main/res/layout/multiplication_normal.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/skobl/AndroidStudioProjects/Project/app/src/main/res/layout/multiplication_notmal.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/skobl/AndroidStudioProjects/Project/app/src/main/res/layout/multiply.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/skobl/AndroidStudioProjects/Project/app/src/main/res/layout/multiply_easy.xml" value="0.2630057803468208" />
+        <entry key="..\:/Users/skobl/AndroidStudioProjects/Project/app/src/main/res/layout/results.xml" value="0.33" />
+        <entry key="..\:/Users/skobl/AndroidStudioProjects/Project/app/src/main/res/layout/subtract.xml" value="0.33" />
+        <entry key="..\:/Users/skobl/AndroidStudioProjects/Project/app/src/main/res/layout/subtract_main.xml" value="0.15319148936170213" />
+        <entry key="..\:/Users/skobl/AndroidStudioProjects/Project/app/src/main/res/layout/test.xml" value="0.245018115942029" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
